@@ -1,0 +1,1 @@
+Olá, esse é um projeto que segue o tutorial da documentação do Django.
